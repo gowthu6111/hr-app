@@ -1,0 +1,51 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+.idea/**
+
+# Target directory
+target/
+
+# Maven
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+
+# Logs
+*.log
+
+# BlueJ
+*.ctxt
+
+# Code Coverage
+site/
+*.class
+
+# Class Files
+*.class
+
+# Generated sources
+generated-sources/
+generated-tests/
+
+# JBoss Tools
+/.apt_generated
+/.apt_generated_test
+
+# Eclipse
+.project
+.classpath
+.csettings
+.settings/
+
+# Others
+*.log
+*.swp
+*~
+*.bak
+*.tmp
+*.DS_Store
