@@ -1,6 +1,6 @@
 ## Install dependencies
 ```
-mvn install
+mvn install -DskipTests
 ```
 
 ## To run tests
