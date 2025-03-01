@@ -1,0 +1,14 @@
+{
+  "firstName": "Dani",
+  "lastName": "Smith",
+  "dateOfBirth": "2012-01-23",
+  "contactInfo": {
+    "email": "dani.smith@example.com",
+    "phone": "+9898989898",
+    "address": {
+      "street": "555 Main St",
+      "town": "Newcastle",
+      "postCode": "NE5 9T2"
+    }
+  }
+}

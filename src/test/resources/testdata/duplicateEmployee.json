@@ -1,0 +1,14 @@
+{
+  "firstName": "Peter",
+  "lastName": "Pan",
+  "dateOfBirth": "2010-01-13",
+  "contactInfo": {
+    "email": "peter.pan@example.com",
+    "phone": "+4434567890",
+    "address": {
+      "street": "123 Main St",
+      "town": "Manchester",
+      "postCode": "M12 3T2"
+    }
+  }
+}

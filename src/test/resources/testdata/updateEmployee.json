@@ -1,0 +1,14 @@
+{
+  "firstName": "Sam",
+  "lastName": "Dean",
+  "dateOfBirth": "2012-01-23",
+  "contactInfo": {
+    "email": "sam.dean@example.com",
+    "phone": "+9898989898",
+    "address": {
+      "street": "564 Main St",
+      "town": "Glasgow",
+      "postCode": "GA1 9T2"
+    }
+  }
+}
